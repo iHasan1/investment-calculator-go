@@ -1,0 +1,9 @@
+### Run the entire module
+go run .
+
+### initialize the module
+go mod init example.com/proj
+
+### run a specific file
+go run filename
+
